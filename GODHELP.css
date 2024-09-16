@@ -110,7 +110,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(../../Downloads/vecteezy_the-background-is-made-up-of-summer-tropical-fruits-with_27099730.jpg);
+    background-image:url(vecteezy_the-background-is-made-up-of-summer-tropical-fruits-with_27099730.jpg);
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
