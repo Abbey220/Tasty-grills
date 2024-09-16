@@ -1,0 +1,31 @@
+ /*body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 70px;
+    background-color: aquamarine;
+}
+form{
+    width: 35%;
+    margin: 0 auto;
+    height: 880px;
+    color: #363535;
+    background-color: white;
+}
+div{
+    border-radius: 5px;
+    padding: 30px;
+    
+}
+input[type=text], select ,textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    width: 100%;
+    box-sizing: border-box;
+}
+/*
